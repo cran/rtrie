@@ -1,11 +1,11 @@
-52b9856370e84b92586c095e4cda10a7 *DESCRIPTION
+89790555f131f862a433a5a62962fea8 *DESCRIPTION
 0415cc42e49162c660c31e1c33153a9d *LICENSE
 a93b33eaa02b3d3e4182dfdcf7f4ed3c *NAMESPACE
 23881e81c4786337ccda928b0217a585 *R/rtrie.R
-8e81dd61a6ee6f14c86719a479b9a138 *build/vignette.rds
+d7c128290756bce1ab8c9351a29a80b5 *build/vignette.rds
 98d815f45509575b7636b4b6aa48811f *inst/doc/trie_usage.R
-8f2f4abcec34f5a97a3a5b91c598d180 *inst/doc/trie_usage.Rmd
-6e0663059ac1ca1cf7a63e2068e6f9dd *inst/doc/trie_usage.html
+a94b6068e6924feaf309dd1c928a3439 *inst/doc/trie_usage.Rmd
+1bc47d537439df31477aab20623b8b25 *inst/doc/trie_usage.html
 e321427218ad0fc8d9d05a2c9b12a635 *inst/extdata/dictionary.txt
 a5b78939d39ff6eaf6b78e6adbceaae5 *man/char_tree.Rd
 d2c2eb57cf9e05e20e50f34738032fbe *man/evaluate_str.Rd
@@ -13,4 +13,4 @@ c0f710ee3ae714bcd1e5fdb379cb0d34 *man/is_word.Rd
 d7b28b77a4ab0972d45371643dd8c362 *man/matching_words.Rd
 02271f0932f42a2a4b34f111c346ab09 *tests/testthat.R
 d15850d5eb07a56b3e726b5f5f74c3ff *tests/testthat/test_rtrie.R
-8f2f4abcec34f5a97a3a5b91c598d180 *vignettes/trie_usage.Rmd
+a94b6068e6924feaf309dd1c928a3439 *vignettes/trie_usage.Rmd
